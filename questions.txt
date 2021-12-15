@@ -1,0 +1,72 @@
+1 Import House prediction dataset from Kaggle and find out the total missing value from
+the dataset and fill the missing value and visualize the data in heat map.
+2 Create a dummy database (.csv file) from below figure and Split the data into two
+parts(dependent and independent variable) ,find out the total missing value from above
+dataset and encode the total number of columns into categorical value into numeric
+value.
+3 Write a python code to implement a decision tree for the below given dataset. Identify the root
+node and all subparts or children of the node and draw the tree.
+
+ 4 Write a python code to implement a decision tree for Iris Dataset (from sklearn.dataset import
+load_iris) dataset. Identify the root node and all subparts or children of the node and draw the
+tree
+
+5 Write a python code to implement the K-nearest neighbourhood program for the given dataset.
+
+6 Write a python code to implement the K-nearest neighbourhood program for the Breast Cancer
+Wisconsin Dataset (from sklearn.dataset import load_breast_cancer) dataset.Obtain model
+accuracy,generate classification report.
+
+7 Write a python code to apply Naive Bayesian algorithm to classify that whether a person can buy
+computer or not based on given test data
+
+8 Write a python code to apply Naive Bayesian algorithm to classify whether a person can survive
+or not for Titanic Dataset (https://www.openml.org/d/42438) and obtain model accuracy
+
+9 Implement support vector machine approach to predictive modelling for Diabetes (from
+sklearn.dataset import load_diabetes) datasets. Also, evaluate the model.
+
+10 Implement support vector machine approach to predictive modelling for iris (from
+sklearn.dataset import load_iris) datasets. Also, evaluate the model.
+
+11 Implement a python program that takes interest rate (x), finds the equation that best fits the data
+and is able to forecast out median home price for given interest rate using the data given below.
+(Use linear regression)
+
+12 Using the Multiple Linear Regression approach solve the problem of predicting home price in
+monroe, new jersey (USA) Below is the table containing home prices in monroe twp, NJ. Here
+price depends on area (square feet), bed rooms and age of the home (in years). Given these prices
+we have to predict prices of new homes based on area, bed rooms and age.
+
+13 Consider the below dataset and This database contains hiring statistics for a firm such as experience
+of candidate, his written test score and personal interview score. Based on these 3 factors, HR will
+decide the salary. Given this data, you need to build a machine learning model for the HR department
+that can help them decide salaries for future candidates.
+
+14 Implement Logistic Regression approach to predictive modelling for Diabetes (from
+sklearn.dataset import load_diabetes) datasets. Also, evaluate the model
+
+15 Build a prediction model using regression technique for Boston house-prices (from
+sklearn.dataset import load_boston) Also, evaluate the model
+
+16 Write a python code to implement Apriori algorithm, apply join and prune method and find
+frequent item sets.
+
+17 Implement Apriori algorithm in python to find rules which explain association between different
+products for given transactions at a retail store. (The data is available
+athttps://drive.google.com/file/d/1NUXoptUlHY8z4KcFKpFA6sQN5KnWzk3p/view ?us
+p=sharing)
+
+
+18 Implement unsupervised machine learning algorithm (Clustering – K Means) in python on
+Titanic dataset (https://www.openml.org/d/42438) to cluster data by removing the class label.Use
+elbow method to find the optimal number of clusters.
+
+
+19 Implement unsupervised machine learning algorithm (Clustering – K Means) in python on Breast
+Tumour dataset to cluster data (use Breast Tumour dataset) by removing the class label.
+
+
+20 Implement an unsupervised machine learning algorithm (Clustering – K Means) in python on the
+below dataset to cluster data by removing the class label.Use elbow method to find the optimal
+number of clusters.
