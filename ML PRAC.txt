@@ -1,0 +1,24 @@
+decision tree - https://github.com/adityabhalsod/GTU-MCA-Practical/tree/master/Semester%20V/Machine%20Learning%20(ML)%20(4659302)/1
+
+K-nearest neighbourhood - https://github.com/adityabhalsod/GTU-MCA-Practical/tree/master/Semester%20V/Machine%20Learning%20(ML)%20(4659302)/14 (different data same method)
+
+Apriori algorithm - https://github.com/adityabhalsod/GTU-MCA-Practical/tree/master/Semester%20V/Machine%20Learning%20(ML)%20(4659302)/3
+
+y Naive Bayesian and Logistic Regression - https://github.com/adityabhalsod/GTU-MCA-Practical/tree/master/Semester%20V/Machine%20Learning%20(ML)%20(4659302)/4
+
+k-means clustering-
+
+Feature Engineering
+
+linear regression - https://github.com/adityabhalsod/GTU-MCA-Practical/blob/master/Semester%20V/Machine%20Learning%20(ML)%20(4659302)/8/dataset.csv
+
+regression technique-https://github.com/adityabhalsod/GTU-MCA-Practical/tree/master/Semester%20V/Machine%20Learning%20(ML)%20(4659302)/10
+
+predictive modelling
+
+Clustering – Hierarchical-
+
+
+14-https://github.com/adityabhalsod/GTU-MCA-Practical/tree/master/Semester%20V/Machine%20Learning%20(ML)%20(4659302)/20
+
+q8.1 - https://github.com/adityabhalsod/GTU-MCA-Practical/tree/master/Semester%20V/Machine%20Learning%20(ML)%20(4659302)/14
